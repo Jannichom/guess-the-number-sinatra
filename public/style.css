@@ -1,0 +1,34 @@
+body {
+  background-color: purple;
+  text-allign: center;
+  
+}
+h1 {
+  font-size: 2em;
+  font-family: 'Monoton', cursive
+  
+}
+p {
+  margin: 2em;
+  line-height: 1.5;
+}
+.number {
+  font-size: 3em;
+  width: 250x;
+  text-align: right;
+  margin-bottom: 1em;
+}
+
+.start {
+  display: block;
+  background-color: blue;
+  color: white;
+  width: 5em;
+  height: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2.5em;
+  line-height: 5em;
+  font-size: 1.3em;
+ 
+}
