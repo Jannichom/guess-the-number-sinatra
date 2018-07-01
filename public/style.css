@@ -4,8 +4,9 @@ body {
   
 }
 h1 {
-  font-size: 2em;
-  font-family: 'Monoton', cursive
+  font-size: 3cm;
+  font-family: 'Monoton', cursive;
+  text-align: center;
   
 }
 p {
