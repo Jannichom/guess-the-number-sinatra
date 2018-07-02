@@ -5,17 +5,25 @@ body {
   
 }
 h1 {
-  font-size: 3cm;
+  font-size: 2.6cm;
   font-family: 'Monoton', cursive;
   text-align: center;
   
 }
-p {
-  margin: 2em;
-  line-height: 1.5;
+p div a {
+  font-size: 2cm;
+  font-family: 'Monoton', cursive;
+  text-align: center;
+  
+}
+p div b {
+  font-size: 2cm;
+  font-family: 'Monoton', cursive;
+  text-align: center;
+  
 }
 .number {
-  font-size: 3em;
+  font-size: 1cm;
   width: 250x;
   text-align: right;
   margin-bottom: 1em;
