@@ -10,13 +10,13 @@ h1 {
   text-align: center;
   
 }
-p div a {
+p div id {
   font-size: 2cm;
   font-family: 'Monoton', cursive;
   text-align: center;
   
 }
-p div b {
+p div {
   font-size: 2cm;
   font-family: 'Monoton', cursive;
   text-align: center;
